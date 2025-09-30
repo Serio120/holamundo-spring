@@ -130,11 +130,13 @@ public class HolamundoApplication {
 
 Configura la ejecución del siguiente modo: 
 
-![img](../../assets/clase12/intellij.png)
+<img width="817" height="692" alt="image" src="https://github.com/user-attachments/assets/3cd797dc-ec8b-4151-a599-4f9f9a5eabbd" />
+
 
 Debes, al ejecutar ver algo como esto: 
 
-![img](../../assets/clase12/intellij2.png)
+<img width="858" height="446" alt="image" src="https://github.com/user-attachments/assets/a899283b-af11-444a-9db4-5fac8df737f8" />
+
 
 7. Probar el endpoint
 Abre tu navegador y visita:
