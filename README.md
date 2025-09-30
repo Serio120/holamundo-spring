@@ -155,4 +155,6 @@ Deberías ver:
 
 1. Crea una petición GET a /sort que permita ordenar alfabéticamente un array con 7 palabras, puedes usar el algoritmo de la burbuja, se deben devolver como respuesta, las palabras ordendas.
 
-2. Crea una petición get a /invert que devuelva un número entero con sus cifras invertidas.
+   [ir](https://github.com/Serio120/get-invert-number-spring)
+
+3. Crea una petición get a /invert que devuelva un número entero con sus cifras invertidas.
